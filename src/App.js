@@ -18,7 +18,7 @@ export default function RouterComponent() {
           <Route path="/teacherData" element={<TeacherData />}></Route>
         </Routes>
       </BrowserRouter>
-      <h3>I am in Router Component</h3>
+      <h3>Router Component</h3>
     </>
   );
 }
